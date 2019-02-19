@@ -22,7 +22,7 @@
 "colorSpecular"  : [0.9000, 0.9000, 0.9000],
 "transparency"  : 1.0,
 "specularCoef"  : 14.0,
-"mapDiffuse"    : "bear.tga",
+"mapDiffuse"    : "bear.jpg",
 "vertexColors" : false
 }
 

@@ -22,7 +22,7 @@
 "colorSpecular"  : [0.9000, 0.9000, 0.9000],
 "transparency"  : 1.0,
 "specularCoef"  : 10.0,
-"mapDiffuse"    : "stairs1.jpg",
+"mapDiffuse"    : "granite2.jpg",
 "vertexColors" : false
 }
 
